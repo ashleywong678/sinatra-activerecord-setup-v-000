@@ -16,8 +16,8 @@ group :development do
 	gem 'tux'
 end
     
-group :test do
-  gem 'rspec'
-  gem 'capybara'
-  gem 'rack-test'
-end
+# group :test do
+#   gem 'rspec'
+#   gem 'capybara'
+#   gem 'rack-test'
+# end
