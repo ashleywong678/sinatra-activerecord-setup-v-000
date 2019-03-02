@@ -1,5 +1,5 @@
-# A sample Gemfile
-source "https://rubygems.org"
+# # A sample Gemfile
+# source "https://rubygems.org"
 
 gem 'sinatra'
 gem 'activerecord', '4.2.5'
